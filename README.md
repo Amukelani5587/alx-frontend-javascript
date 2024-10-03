@@ -6,7 +6,7 @@
 
 ## About
 
-- This repository consists of Frontend JavaScript projects done with [ALX Africa](https://www.alxafrica.com/) Full stack Software Engineering course in partnership with [Holberton School](https://www.holbertonschool.com/) by [Terry Wambui](https://github.com/terryyufei).
+- This repository consists of Frontend JavaScript projects
 
 ---
 
