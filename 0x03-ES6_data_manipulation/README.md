@@ -1,27 +1,13 @@
 0x03. ES6 data manipulation
-JavaScript
-ES6
- Weight: 1
- Ongoing second chance project - started Oct 7, 2024 6:00 AM, must end by Oct 12, 2024 6:00 AM
- An auto review will be launched at the deadline
-In a nutshell…
-Auto QA review: 0.0/39 mandatory & 0.0/4 optional
-Altogether:  0.0%
-Mandatory: 0.0%
-Optional: 0.0%
-Calculation:  0.0% + (0.0% * 0.0%)  == 0.0%
 
 
 Resources
-Read or watch:
 
 Array
 Typed Array
 Set Data Structure
 Map Data Structure
 WeakMap
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 How to use map, filter and reduce on arrays
 Typed arrays
